@@ -1,2 +1,4 @@
-
-
+.DS_Store
+etc
+node_modules
+build
